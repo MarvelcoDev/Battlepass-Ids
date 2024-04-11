@@ -1,6 +1,6 @@
 # Battlepass ids used for backends
 
-### Credits for Tiva for some ids 
+### Credits for Tiva for some ids  
 
 ## Season 2
 
